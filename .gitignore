@@ -1,0 +1,21 @@
+# things that must be removed from here but put in */target/ instead
+merlin-formulary/livret_test_save.txt
+merlin-utils/pom_xml.decrypt
+merlin-utils/foobar/
+# maven target
+*/target/
+# intellij
+*.iws
+*.ipr
+*.iml
+.idea
+# vim
+*.swp
+# eclipse
+.classpath
+.project
+.settings/
+# logs
+*/logs/
+*/log/
+bin
